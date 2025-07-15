@@ -8,12 +8,26 @@
 <body class="bg-light">
   <div class="container py-5">
     <h1 class="text-center mb-4">Buscador de Videojuegos</h1>
+
     <div class="row justify-content-center mb-4">
       <input id="searchbox" type="text" class="form-control w-50" placeholder="Busca tu juego...">
     </div>
+
+    <div class="row">
+  <aside class="col-md-3">
+    <h5>Géneros</h5>
+    <form id="genre-filters" class="mb-4"></form>
+
+    <h5>Plataformas</h5>
+    <form id="platform-filters"></form>
+  </aside>
+
+  <main class="col-md-9">
     <div id="hits" class="row"></div>
     <div id="pagination" class="d-flex justify-content-center mt-4"></div>
-  </div>
+  </main>
+</div>
+
   <script type="module" src="/main.js"></script>
 </body>
 </html>

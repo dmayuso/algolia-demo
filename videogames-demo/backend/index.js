@@ -20,6 +20,18 @@ app.get('/search', async (req, res) => {
   }
 });
 
+app.get('/facets', async (req, res) => {
+  try {
+    const response = await index.search('', {
+      facets: ['genre', 'platform'],
+      maxValuesPerFacet: 100,
+    });
+    res.json(response.facets);
+  } catch (e) {
+    res.status(500).json({ message: e.message });
+  }
+});
+
 app.listen(process.env.PORT, () => {
   console.log(`Backend API listening on http://localhost:${process.env.PORT}`);
 });
