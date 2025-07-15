@@ -23,20 +23,28 @@ search.addWidgets([
     attribute: 'platform',
   }),
   hits({
-    container: '#hits',
-    templates: {
-      item(hit) {
-        return `
-          <div>
-            <img src="${hit.cover_image_url}" alt="${hit.title}" width="100"/>
-            <h4>${hit.title}</h4>
-            <p>Plataformas: ${hit.platform.join(', ')}</p>
-            <p>Precio: ${hit.price_eur} €</p>
+  container: '#hits',
+  templates: {
+    item(hit) {
+      return `
+        <div class="card mb-3" style="max-width: 540px;">
+          <div class="row g-0">
+            <div class="col-md-4">
+              <img src="${hit.cover_image_url}" class="img-fluid rounded-start" alt="${hit.title}">
+            </div>
+            <div class="col-md-8">
+              <div class="card-body">
+                <h5 class="card-title">${hit.title}</h5>
+                <p class="card-text">Plataformas: ${hit.platform.join(', ')}</p>
+                <p class="card-text"><small class="text-muted">Precio: ${hit.price_eur} €</small></p>
+              </div>
+            </div>
           </div>
-        `;
-      },
+        </div>
+      `;
     },
-  }),
+  },
+}),
   pagination({
     container: '#pagination',
   }),
