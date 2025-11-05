@@ -11,9 +11,13 @@ const app = express();
 app.use(cors(), express.json());
 
 app.get('/search', async (req, res) => {
-  const { query, page = 0 } = req.query;
+  const { query, page = 0, filters = '' } = req.query;
   try {
-    const { hits, nbPages } = await index.search(query || '', { page, hitsPerPage: 10 });
+    const { hits, nbPages } = await index.search(query || '', {
+      page: Number(page),
+      hitsPerPage: 10,
+      filters: filters || undefined,  // solo lo añadimos si viene
+    });
     res.json({ hits, nbPages });
   } catch (e) {
     res.status(500).json({ message: e.message });
@@ -21,10 +25,12 @@ app.get('/search', async (req, res) => {
 });
 
 app.get('/facets', async (req, res) => {
+  const { query = '', filters = '' } = req.query;
   try {
-    const response = await index.search('', {
+    const response = await index.search(query, {
       facets: ['genre', 'platform'],
       maxValuesPerFacet: 100,
+      filters: filters || undefined,  // << importante para contar con el mismo contexto
     });
     res.json(response.facets);
   } catch (e) {
