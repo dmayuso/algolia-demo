@@ -4,19 +4,29 @@ import algoliasearch from 'algoliasearch';
 import dotenv from 'dotenv';
 
 dotenv.config();
-const client = algoliasearch(process.env.ALGOLIA_APP_ID, process.env.ALGOLIA_ADMIN_API_KEY);
-const index = client.initIndex(process.env.ALGOLIA_INDEX);
+
+const client = algoliasearch(
+  process.env.ALGOLIA_APP_ID,
+  process.env.ALGOLIA_ADMIN_API_KEY
+);
+
+const baseIndexName = process.env.ALGOLIA_INDEX;
+const indexByRating = client.initIndex(baseIndexName);
+const indexByPrice = client.initIndex(`${baseIndexName}_price_asc`);
 
 const app = express();
 app.use(cors(), express.json());
 
 app.get('/search', async (req, res) => {
-  const { query, page = 0, filters = '' } = req.query;
+  const { query, page = 0, filters = '', sort = 'rating' } = req.query;
+
+  const activeIndex = sort === 'price' ? indexByPrice : indexByRating;
+
   try {
-    const { hits, nbPages } = await index.search(query || '', {
+    const { hits, nbPages } = await activeIndex.search(query || '', {
       page: Number(page),
       hitsPerPage: 10,
-      filters: filters || undefined,  // solo lo añadimos si viene
+      filters: filters || undefined, // solo lo añadimos si viene
     });
     res.json({ hits, nbPages });
   } catch (e) {
@@ -25,12 +35,15 @@ app.get('/search', async (req, res) => {
 });
 
 app.get('/facets', async (req, res) => {
-  const { query = '', filters = '' } = req.query;
+  const { query = '', filters = '', sort = 'rating' } = req.query;
+
+  const activeIndex = sort === 'price' ? indexByPrice : indexByRating;
+
   try {
-    const response = await index.search(query, {
+    const response = await activeIndex.search(query, {
       facets: ['genre', 'platform'],
       maxValuesPerFacet: 100,
-      filters: filters || undefined,  // << importante para contar con el mismo contexto
+      filters: filters || undefined,
     });
     res.json(response.facets);
   } catch (e) {

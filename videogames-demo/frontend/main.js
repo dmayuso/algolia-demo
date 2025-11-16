@@ -3,11 +3,20 @@ const hitsContainer = document.getElementById('hits');
 const paginationContainer = document.getElementById('pagination');
 const genreFilters = document.getElementById('genre-filters');
 const platformFilters = document.getElementById('platform-filters');
+const sortSelect = document.getElementById('sort-by');
 
 let currentPage = 0;
 let activeFilters = { genre: [], platform: [] };
+let currentSort = 'rating'; // 'rating' por defecto
 
 searchBox.addEventListener('input', () => {
+  currentPage = 0;
+  performSearch(searchBox.value, currentPage);
+});
+
+// cambio de ordenación
+sortSelect.addEventListener('change', () => {
+  currentSort = sortSelect.value;
   currentPage = 0;
   performSearch(searchBox.value, currentPage);
 });
@@ -57,14 +66,16 @@ function buildAlgoliaFiltersString() {
 
 async function performSearch(query, page) {
   const filters = buildAlgoliaFiltersString();
+
   const res = await fetch(
-    `http://localhost:3001/search?query=${encodeURIComponent(query)}&page=${page}&filters=${encodeURIComponent(filters)}`
+    `http://localhost:3001/search?query=${encodeURIComponent(query)}&page=${page}&filters=${encodeURIComponent(filters)}&sort=${encodeURIComponent(currentSort)}`
   );
+
   const { hits, nbPages } = await res.json();
   renderHits(hits);
   renderPagination(nbPages);
 
-  // actualiza facetas con el mismo contexto (query + filters)
+  // actualiza facetas con el mismo contexto (query + filters + sort)
   await loadFacets(query, filters);
 }
 
@@ -114,11 +125,10 @@ function renderFacetGroup(container, title, items, type) {
 
 async function loadFacets(query = '', filters = '') {
   const res = await fetch(
-    `http://localhost:3001/facets?query=${encodeURIComponent(query)}&filters=${encodeURIComponent(filters)}`
+    `http://localhost:3001/facets?query=${encodeURIComponent(query)}&filters=${encodeURIComponent(filters)}&sort=${encodeURIComponent(currentSort)}`
   );
   const facets = await res.json();
 
-  // genera checkboxes de Género y Plataforma manteniendo "checked" según activeFilters
   renderFacetGroup(genreFilters, 'Géneros', facets.genre || {}, 'genre');
   renderFacetGroup(platformFilters, 'Plataformas', facets.platform || {}, 'platform');
 }
