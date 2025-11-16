@@ -76,6 +76,7 @@ function renderHits(hits) {
           <img src="${hit.cover_image_url}" class="card-img-top p-3" alt="${hit.title}" style="object-fit: contain; height: 200px;">
           <div class="card-body">
             <h5 class="card-title">${hit.title}</h5>
+            <p class="card-text">Publicador: ${hit.publisher}</p>
             <p class="card-text">Plataformas: ${Array.isArray(hit.platform) ? hit.platform.join(', ') : hit.platform}</p>
             <p class="card-text"><small>Precio: ${hit.price_eur} €</small></p>
           </div>
