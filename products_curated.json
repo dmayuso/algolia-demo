@@ -12,7 +12,7 @@
     "publisher": "EA",
     "release_date": "2025-11-04",
     "price_eur": 68.54,
-    "cover_image_url": "https://placehold.co/200x300?text=Super+Mario+Odyssey"
+    "cover_image_url": "https://picsum.photos/seed/super-mario-odyssey/200/300"
   },
   {
     "objectID": "2",
@@ -27,7 +27,7 @@
     "publisher": "SEGA",
     "release_date": "2024-07-13",
     "price_eur": 67.73,
-    "cover_image_url": "https://placehold.co/200x300?text=Starfield"
+    "cover_image_url": "https://picsum.photos/seed/starfield/200/300"
   },
   {
     "objectID": "3",
@@ -42,7 +42,7 @@
     "publisher": "Sony",
     "release_date": "2019-12-28",
     "price_eur": 63.48,
-    "cover_image_url": "https://placehold.co/200x300?text=Diablo+IV"
+    "cover_image_url": "https://picsum.photos/seed/diablo-iv/200/300"
   },
   {
     "objectID": "4",
@@ -57,7 +57,7 @@
     "publisher": "Nintendo",
     "release_date": "2019-03-06",
     "price_eur": 26.51,
-    "cover_image_url": "https://placehold.co/200x300?text=Persona+5+Royal"
+    "cover_image_url": "https://picsum.photos/seed/persona-5-royal/200/300"
   },
   {
     "objectID": "5",
@@ -74,7 +74,7 @@
     "publisher": "Nintendo",
     "release_date": "2020-05-06",
     "price_eur": 48.53,
-    "cover_image_url": "https://placehold.co/200x300?text=FIFA"
+    "cover_image_url": "https://picsum.photos/seed/fifa/200/300"
   },
   {
     "objectID": "6",
@@ -90,7 +90,7 @@
     "publisher": "Sony",
     "release_date": "2025-08-05",
     "price_eur": 58.55,
-    "cover_image_url": "https://placehold.co/200x300?text=Tekken"
+    "cover_image_url": "https://picsum.photos/seed/tekken/200/300"
   },
   {
     "objectID": "7",
@@ -107,7 +107,7 @@
     "publisher": "2K Games",
     "release_date": "2023-04-27",
     "price_eur": 24.51,
-    "cover_image_url": "https://placehold.co/200x300?text=Final+Fantasy+XVI"
+    "cover_image_url": "https://picsum.photos/seed/final-fantasy-xvi/200/300"
   },
   {
     "objectID": "9",
@@ -122,7 +122,7 @@
     "publisher": "Ubisoft",
     "release_date": "2021-12-19",
     "price_eur": 34.11,
-    "cover_image_url": "https://placehold.co/200x300?text=Elden+Ring"
+    "cover_image_url": "https://picsum.photos/seed/elden-ring/200/300"
   },
   {
     "objectID": "10",
@@ -138,7 +138,7 @@
     "publisher": "Bethesda",
     "release_date": "2024-02-08",
     "price_eur": 54.48,
-    "cover_image_url": "https://placehold.co/200x300?text=Mass+Effect+Legendary+Edition"
+    "cover_image_url": "https://picsum.photos/seed/mass-effect-legendary-edition/200/300"
   },
   {
     "objectID": "11",
@@ -153,7 +153,7 @@
     "publisher": "Bethesda",
     "release_date": "2025-04-18",
     "price_eur": 69.89,
-    "cover_image_url": "https://placehold.co/200x300?text=Dead+Space+Remake"
+    "cover_image_url": "https://picsum.photos/seed/dead-space-remake/200/300"
   },
   {
     "objectID": "12",
@@ -171,7 +171,7 @@
     "publisher": "Sony",
     "release_date": "2020-03-16",
     "price_eur": 53.28,
-    "cover_image_url": "https://placehold.co/200x300?text=Spider-Man"
+    "cover_image_url": "https://picsum.photos/seed/spider-man/200/300"
   },
   {
     "objectID": "13",
@@ -189,7 +189,7 @@
     "publisher": "Sony",
     "release_date": "2021-04-28",
     "price_eur": 69.75,
-    "cover_image_url": "https://placehold.co/200x300?text=The+Last+of+Us+Part+I"
+    "cover_image_url": "https://picsum.photos/seed/the-last-of-us-part-i/200/300"
   },
   {
     "objectID": "14",
@@ -205,7 +205,7 @@
     "publisher": "2K Games",
     "release_date": "2023-09-01",
     "price_eur": 74.86,
-    "cover_image_url": "https://placehold.co/200x300?text=Overwatch"
+    "cover_image_url": "https://picsum.photos/seed/overwatch/200/300"
   },
   {
     "objectID": "15",
@@ -221,7 +221,7 @@
     "publisher": "Ubisoft",
     "release_date": "2019-12-24",
     "price_eur": 39.53,
-    "cover_image_url": "https://placehold.co/200x300?text=Street+Fighter"
+    "cover_image_url": "https://picsum.photos/seed/street-fighter/200/300"
   },
   {
     "objectID": "16",
@@ -238,7 +238,7 @@
     "publisher": "Sony",
     "release_date": "2022-05-10",
     "price_eur": 52.83,
-    "cover_image_url": "https://placehold.co/200x300?text=Spider-Man+2"
+    "cover_image_url": "https://picsum.photos/seed/spider-man-2/200/300"
   },
   {
     "objectID": "21",
@@ -256,7 +256,7 @@
     "publisher": "Bandai Namco",
     "release_date": "2023-04-10",
     "price_eur": 35.82,
-    "cover_image_url": "https://placehold.co/200x300?text=Baldur%27s+Gate+3"
+    "cover_image_url": "https://picsum.photos/seed/baldur-s-gate-3/200/300"
   },
   {
     "objectID": "24",
@@ -274,7 +274,7 @@
     "publisher": "Bethesda",
     "release_date": "2024-03-03",
     "price_eur": 58.31,
-    "cover_image_url": "https://placehold.co/200x300?text=Gran+Turismo"
+    "cover_image_url": "https://picsum.photos/seed/gran-turismo/200/300"
   },
   {
     "objectID": "25",
@@ -289,7 +289,7 @@
     "publisher": "Microsoft",
     "release_date": "2022-02-22",
     "price_eur": 32.02,
-    "cover_image_url": "https://placehold.co/200x300?text=Cyberpunk"
+    "cover_image_url": "https://picsum.photos/seed/cyberpunk/200/300"
   },
   {
     "objectID": "26",
@@ -306,7 +306,7 @@
     "publisher": "SEGA",
     "release_date": "2018-06-21",
     "price_eur": 27.9,
-    "cover_image_url": "https://placehold.co/200x300?text=Zelda%3A+Tears+of+the+Kingdom"
+    "cover_image_url": "https://picsum.photos/seed/zelda-tears-of-the-kingdom/200/300"
   },
   {
     "objectID": "28",
@@ -321,7 +321,7 @@
     "publisher": "2K Games",
     "release_date": "2023-01-11",
     "price_eur": 36.18,
-    "cover_image_url": "https://placehold.co/200x300?text=Cyberpunk+2077"
+    "cover_image_url": "https://picsum.photos/seed/cyberpunk-2077/200/300"
   },
   {
     "objectID": "30",
@@ -337,7 +337,7 @@
     "publisher": "SEGA",
     "release_date": "2021-02-21",
     "price_eur": 46.46,
-    "cover_image_url": "https://placehold.co/200x300?text=Horizon+Forbidden+West"
+    "cover_image_url": "https://picsum.photos/seed/horizon-forbidden-west/200/300"
   },
   {
     "objectID": "32",
@@ -355,7 +355,7 @@
     "publisher": "Bandai Namco",
     "release_date": "2023-10-22",
     "price_eur": 42.05,
-    "cover_image_url": "https://placehold.co/200x300?text=The+Witcher"
+    "cover_image_url": "https://picsum.photos/seed/the-witcher/200/300"
   },
   {
     "objectID": "34",
@@ -371,7 +371,7 @@
     "publisher": "Ubisoft",
     "release_date": "2023-02-14",
     "price_eur": 25.46,
-    "cover_image_url": "https://placehold.co/200x300?text=Mortal+Kombat"
+    "cover_image_url": "https://picsum.photos/seed/mortal-kombat/200/300"
   },
   {
     "objectID": "37",
@@ -389,7 +389,7 @@
     "publisher": "Activision",
     "release_date": "2019-01-17",
     "price_eur": 40.38,
-    "cover_image_url": "https://placehold.co/200x300?text=Mortal+Kombat+1"
+    "cover_image_url": "https://picsum.photos/seed/mortal-kombat-1/200/300"
   },
   {
     "objectID": "39",
@@ -403,7 +403,7 @@
     "publisher": "Nintendo",
     "release_date": "2020-05-23",
     "price_eur": 38.63,
-    "cover_image_url": "https://placehold.co/200x300?text=Overwatch+2"
+    "cover_image_url": "https://picsum.photos/seed/overwatch-2/200/300"
   },
   {
     "objectID": "41",
@@ -420,7 +420,7 @@
     "publisher": "Bandai Namco",
     "release_date": "2022-09-25",
     "price_eur": 59.2,
-    "cover_image_url": "https://placehold.co/200x300?text=NBA+2K24"
+    "cover_image_url": "https://picsum.photos/seed/nba-2k24/200/300"
   },
   {
     "objectID": "43",
@@ -437,7 +437,7 @@
     "publisher": "Activision",
     "release_date": "2020-10-23",
     "price_eur": 46.18,
-    "cover_image_url": "https://placehold.co/200x300?text=Assassin%27s+Creed+Mirage"
+    "cover_image_url": "https://picsum.photos/seed/assassin-s-creed-mirage/200/300"
   },
   {
     "objectID": "47",
@@ -452,7 +452,7 @@
     "publisher": "SEGA",
     "release_date": "2018-04-21",
     "price_eur": 29.63,
-    "cover_image_url": "https://placehold.co/200x300?text=Forza+Horizon"
+    "cover_image_url": "https://picsum.photos/seed/forza-horizon/200/300"
   },
   {
     "objectID": "53",
@@ -470,7 +470,7 @@
     "publisher": "Activision",
     "release_date": "2022-09-24",
     "price_eur": 76.33,
-    "cover_image_url": "https://placehold.co/200x300?text=Sea+of+Thieves"
+    "cover_image_url": "https://picsum.photos/seed/sea-of-thieves/200/300"
   },
   {
     "objectID": "56",
@@ -486,7 +486,7 @@
     "publisher": "2K Games",
     "release_date": "2025-09-05",
     "price_eur": 45.29,
-    "cover_image_url": "https://placehold.co/200x300?text=Resident+Evil+4+Remake"
+    "cover_image_url": "https://picsum.photos/seed/resident-evil-4-remake/200/300"
   },
   {
     "objectID": "59",
@@ -502,7 +502,7 @@
     "publisher": "SEGA",
     "release_date": "2024-04-02",
     "price_eur": 56.3,
-    "cover_image_url": "https://placehold.co/200x300?text=God+of+War+Ragnarok"
+    "cover_image_url": "https://picsum.photos/seed/god-of-war-ragnarok/200/300"
   },
   {
     "objectID": "64",
@@ -517,7 +517,7 @@
     "publisher": "Nintendo",
     "release_date": "2021-04-03",
     "price_eur": 58.16,
-    "cover_image_url": "https://placehold.co/200x300?text=Baldur%27s+Gate"
+    "cover_image_url": "https://picsum.photos/seed/baldur-s-gate/200/300"
   },
   {
     "objectID": "67",
@@ -534,7 +534,7 @@
     "publisher": "2K Games",
     "release_date": "2022-08-20",
     "price_eur": 23.25,
-    "cover_image_url": "https://placehold.co/200x300?text=Street+Fighter+6"
+    "cover_image_url": "https://picsum.photos/seed/street-fighter-6/200/300"
   },
   {
     "objectID": "74",
@@ -550,7 +550,7 @@
     "publisher": "Ubisoft",
     "release_date": "2025-06-17",
     "price_eur": 56.01,
-    "cover_image_url": "https://placehold.co/200x300?text=Hades"
+    "cover_image_url": "https://picsum.photos/seed/hades/200/300"
   },
   {
     "objectID": "75",
@@ -568,7 +568,7 @@
     "publisher": "Square Enix",
     "release_date": "2025-02-06",
     "price_eur": 22.99,
-    "cover_image_url": "https://placehold.co/200x300?text=Call+of+Duty+Modern+Warfare"
+    "cover_image_url": "https://picsum.photos/seed/call-of-duty-modern-warfare/200/300"
   },
   {
     "objectID": "81",
@@ -585,7 +585,7 @@
     "publisher": "Sony",
     "release_date": "2023-06-03",
     "price_eur": 57.89,
-    "cover_image_url": "https://placehold.co/200x300?text=Forza+Horizon+5"
+    "cover_image_url": "https://picsum.photos/seed/forza-horizon-5/200/300"
   },
   {
     "objectID": "92",
@@ -600,7 +600,7 @@
     "publisher": "EA",
     "release_date": "2020-12-20",
     "price_eur": 66.8,
-    "cover_image_url": "https://placehold.co/200x300?text=The+Witcher+3"
+    "cover_image_url": "https://picsum.photos/seed/the-witcher-3/200/300"
   },
   {
     "objectID": "100",
@@ -616,7 +616,7 @@
     "publisher": "Ubisoft",
     "release_date": "2020-02-15",
     "price_eur": 24.48,
-    "cover_image_url": "https://placehold.co/200x300?text=FIFA+24"
+    "cover_image_url": "https://picsum.photos/seed/fifa-24/200/300"
   },
   {
     "objectID": "101",
@@ -630,7 +630,7 @@
     "publisher": "Bandai Namco",
     "release_date": "2025-11-10",
     "price_eur": 66.46,
-    "cover_image_url": "https://placehold.co/200x300?text=Halo+Infinite"
+    "cover_image_url": "https://picsum.photos/seed/halo-infinite/200/300"
   },
   {
     "objectID": "102",
@@ -647,7 +647,7 @@
     "publisher": "Bandai Namco",
     "release_date": "2021-08-15",
     "price_eur": 26.18,
-    "cover_image_url": "https://placehold.co/200x300?text=Grand+Theft+Auto+V"
+    "cover_image_url": "https://picsum.photos/seed/grand-theft-auto-v/200/300"
   },
   {
     "objectID": "103",
@@ -662,7 +662,7 @@
     "publisher": "Square Enix",
     "release_date": "2019-07-21",
     "price_eur": 62.96,
-    "cover_image_url": "https://placehold.co/200x300?text=Red+Dead+Redemption+2"
+    "cover_image_url": "https://picsum.photos/seed/red-dead-redemption-2/200/300"
   },
   {
     "objectID": "104",
@@ -676,7 +676,7 @@
     "publisher": "Nintendo",
     "release_date": "2019-02-06",
     "price_eur": 57.86,
-    "cover_image_url": "https://placehold.co/200x300?text=Minecraft"
+    "cover_image_url": "https://picsum.photos/seed/minecraft/200/300"
   },
   {
     "objectID": "105",
@@ -694,7 +694,7 @@
     "publisher": "EA",
     "release_date": "2018-03-22",
     "price_eur": 31.35,
-    "cover_image_url": "https://placehold.co/200x300?text=Fortnite"
+    "cover_image_url": "https://picsum.photos/seed/fortnite/200/300"
   },
   {
     "objectID": "106",
@@ -709,7 +709,7 @@
     "publisher": "2K Games",
     "release_date": "2023-05-11",
     "price_eur": 52.56,
-    "cover_image_url": "https://placehold.co/200x300?text=Apex+Legends"
+    "cover_image_url": "https://picsum.photos/seed/apex-legends/200/300"
   },
   {
     "objectID": "107",
@@ -725,7 +725,7 @@
     "publisher": "Capcom",
     "release_date": "2024-01-18",
     "price_eur": 66.15,
-    "cover_image_url": "https://placehold.co/200x300?text=League+of+Legends"
+    "cover_image_url": "https://picsum.photos/seed/league-of-legends/200/300"
   },
   {
     "objectID": "108",
@@ -740,7 +740,7 @@
     "publisher": "Bandai Namco",
     "release_date": "2024-06-12",
     "price_eur": 23.18,
-    "cover_image_url": "https://placehold.co/200x300?text=Dota+2"
+    "cover_image_url": "https://picsum.photos/seed/dota-2/200/300"
   },
   {
     "objectID": "109",
@@ -755,7 +755,7 @@
     "publisher": "Sony",
     "release_date": "2022-01-23",
     "price_eur": 24.5,
-    "cover_image_url": "https://placehold.co/200x300?text=Counter-Strike+2"
+    "cover_image_url": "https://picsum.photos/seed/counter-strike-2/200/300"
   },
   {
     "objectID": "110",
@@ -771,7 +771,7 @@
     "publisher": "Sony",
     "release_date": "2025-01-23",
     "price_eur": 38.54,
-    "cover_image_url": "https://placehold.co/200x300?text=Call+of+Duty%3A+Warzone"
+    "cover_image_url": "https://picsum.photos/seed/call-of-duty-warzone/200/300"
   },
   {
     "objectID": "111",
@@ -786,7 +786,7 @@
     "publisher": "Capcom",
     "release_date": "2020-12-23",
     "price_eur": 22.85,
-    "cover_image_url": "https://placehold.co/200x300?text=Call+of+Duty%3A+Black+Ops+Cold+War"
+    "cover_image_url": "https://picsum.photos/seed/call-of-duty-black-ops-cold-war/200/300"
   },
   {
     "objectID": "112",
@@ -803,7 +803,7 @@
     "publisher": "SEGA",
     "release_date": "2023-09-17",
     "price_eur": 65.7,
-    "cover_image_url": "https://placehold.co/200x300?text=Call+of+Duty%3A+Modern+Warfare+II"
+    "cover_image_url": "https://picsum.photos/seed/call-of-duty-modern-warfare-ii/200/300"
   },
   {
     "objectID": "113",
@@ -818,7 +818,7 @@
     "publisher": "Square Enix",
     "release_date": "2023-11-21",
     "price_eur": 48.14,
-    "cover_image_url": "https://placehold.co/200x300?text=Among+Us"
+    "cover_image_url": "https://picsum.photos/seed/among-us/200/300"
   },
   {
     "objectID": "114",
@@ -833,7 +833,7 @@
     "publisher": "Activision",
     "release_date": "2024-04-10",
     "price_eur": 68.93,
-    "cover_image_url": "https://placehold.co/200x300?text=Rocket+League"
+    "cover_image_url": "https://picsum.photos/seed/rocket-league/200/300"
   },
   {
     "objectID": "115",
@@ -849,7 +849,7 @@
     "publisher": "Ubisoft",
     "release_date": "2025-12-06",
     "price_eur": 65.73,
-    "cover_image_url": "https://placehold.co/200x300?text=Genshin+Impact"
+    "cover_image_url": "https://picsum.photos/seed/genshin-impact/200/300"
   },
   {
     "objectID": "116",
@@ -863,7 +863,7 @@
     "publisher": "SEGA",
     "release_date": "2019-09-20",
     "price_eur": 67.19,
-    "cover_image_url": "https://placehold.co/200x300?text=Animal+Crossing%3A+New+Horizons"
+    "cover_image_url": "https://picsum.photos/seed/animal-crossing-new-horizons/200/300"
   },
   {
     "objectID": "117",
@@ -878,7 +878,7 @@
     "publisher": "Activision",
     "release_date": "2024-02-26",
     "price_eur": 48.69,
-    "cover_image_url": "https://placehold.co/200x300?text=Super+Smash+Bros.+Ultimate"
+    "cover_image_url": "https://picsum.photos/seed/super-smash-bros-ultimate/200/300"
   },
   {
     "objectID": "118",
@@ -896,7 +896,7 @@
     "publisher": "Microsoft",
     "release_date": "2024-11-24",
     "price_eur": 31.17,
-    "cover_image_url": "https://placehold.co/200x300?text=Mario+Kart+8+Deluxe"
+    "cover_image_url": "https://picsum.photos/seed/mario-kart-8-deluxe/200/300"
   },
   {
     "objectID": "119",
@@ -913,7 +913,7 @@
     "publisher": "Sony",
     "release_date": "2025-02-15",
     "price_eur": 76.92,
-    "cover_image_url": "https://placehold.co/200x300?text=Splatoon+3"
+    "cover_image_url": "https://picsum.photos/seed/splatoon-3/200/300"
   },
   {
     "objectID": "120",
@@ -931,7 +931,7 @@
     "publisher": "Sony",
     "release_date": "2023-01-25",
     "price_eur": 53.1,
-    "cover_image_url": "https://placehold.co/200x300?text=Luigi%27s+Mansion+3"
+    "cover_image_url": "https://picsum.photos/seed/luigi-s-mansion-3/200/300"
   },
   {
     "objectID": "121",
@@ -947,7 +947,7 @@
     "publisher": "Square Enix",
     "release_date": "2019-09-03",
     "price_eur": 27.05,
-    "cover_image_url": "https://placehold.co/200x300?text=Super+Mario+3D+World+%2B+Bowser%27s+Fury"
+    "cover_image_url": "https://picsum.photos/seed/super-mario-3d-world-bowser-s-fury/200/300"
   },
   {
     "objectID": "122",
@@ -963,7 +963,7 @@
     "publisher": "Nintendo",
     "release_date": "2025-10-16",
     "price_eur": 49.04,
-    "cover_image_url": "https://placehold.co/200x300?text=Metroid+Dread"
+    "cover_image_url": "https://picsum.photos/seed/metroid-dread/200/300"
   },
   {
     "objectID": "123",
@@ -979,7 +979,7 @@
     "publisher": "SEGA",
     "release_date": "2021-10-09",
     "price_eur": 59.7,
-    "cover_image_url": "https://placehold.co/200x300?text=Kirby+and+the+Forgotten+Land"
+    "cover_image_url": "https://picsum.photos/seed/kirby-and-the-forgotten-land/200/300"
   },
   {
     "objectID": "124",
@@ -997,7 +997,7 @@
     "publisher": "Sony",
     "release_date": "2025-11-09",
     "price_eur": 53.77,
-    "cover_image_url": "https://placehold.co/200x300?text=Pikmin+4"
+    "cover_image_url": "https://picsum.photos/seed/pikmin-4/200/300"
   },
   {
     "objectID": "125",
@@ -1013,7 +1013,7 @@
     "publisher": "Microsoft",
     "release_date": "2019-05-04",
     "price_eur": 20.22,
-    "cover_image_url": "https://placehold.co/200x300?text=Bayonetta+3"
+    "cover_image_url": "https://picsum.photos/seed/bayonetta-3/200/300"
   },
   {
     "objectID": "126",
@@ -1027,7 +1027,7 @@
     "publisher": "Bethesda",
     "release_date": "2024-05-12",
     "price_eur": 64.61,
-    "cover_image_url": "https://placehold.co/200x300?text=Fire+Emblem%3A+Three+Houses"
+    "cover_image_url": "https://picsum.photos/seed/fire-emblem-three-houses/200/300"
   },
   {
     "objectID": "127",
@@ -1042,7 +1042,7 @@
     "publisher": "SEGA",
     "release_date": "2021-10-01",
     "price_eur": 70.54,
-    "cover_image_url": "https://placehold.co/200x300?text=Fire+Emblem+Engage"
+    "cover_image_url": "https://picsum.photos/seed/fire-emblem-engage/200/300"
   },
   {
     "objectID": "128",
@@ -1056,7 +1056,7 @@
     "publisher": "Nintendo",
     "release_date": "2024-03-07",
     "price_eur": 30.91,
-    "cover_image_url": "https://placehold.co/200x300?text=Xenoblade+Chronicles+3"
+    "cover_image_url": "https://picsum.photos/seed/xenoblade-chronicles-3/200/300"
   },
   {
     "objectID": "129",
@@ -1072,7 +1072,7 @@
     "publisher": "Bandai Namco",
     "release_date": "2018-12-06",
     "price_eur": 28.02,
-    "cover_image_url": "https://placehold.co/200x300?text=Monster+Hunter%3A+World"
+    "cover_image_url": "https://picsum.photos/seed/monster-hunter-world/200/300"
   },
   {
     "objectID": "130",
@@ -1086,7 +1086,7 @@
     "publisher": "EA",
     "release_date": "2022-02-09",
     "price_eur": 76.52,
-    "cover_image_url": "https://placehold.co/200x300?text=Monster+Hunter+Rise"
+    "cover_image_url": "https://picsum.photos/seed/monster-hunter-rise/200/300"
   },
   {
     "objectID": "131",
@@ -1104,7 +1104,7 @@
     "publisher": "2K Games",
     "release_date": "2023-11-21",
     "price_eur": 48.87,
-    "cover_image_url": "https://placehold.co/200x300?text=Resident+Evil+2"
+    "cover_image_url": "https://picsum.photos/seed/resident-evil-2/200/300"
   },
   {
     "objectID": "132",
@@ -1120,7 +1120,7 @@
     "publisher": "Nintendo",
     "release_date": "2022-06-24",
     "price_eur": 61.57,
-    "cover_image_url": "https://placehold.co/200x300?text=Resident+Evil+3"
+    "cover_image_url": "https://picsum.photos/seed/resident-evil-3/200/300"
   },
   {
     "objectID": "133",
@@ -1136,7 +1136,7 @@
     "publisher": "Bethesda",
     "release_date": "2018-07-04",
     "price_eur": 33.82,
-    "cover_image_url": "https://placehold.co/200x300?text=Resident+Evil+Village"
+    "cover_image_url": "https://picsum.photos/seed/resident-evil-village/200/300"
   },
   {
     "objectID": "134",
@@ -1153,7 +1153,7 @@
     "publisher": "Nintendo",
     "release_date": "2023-01-21",
     "price_eur": 65.63,
-    "cover_image_url": "https://placehold.co/200x300?text=Resident+Evil+7%3A+Biohazard"
+    "cover_image_url": "https://picsum.photos/seed/resident-evil-7-biohazard/200/300"
   },
   {
     "objectID": "135",
@@ -1168,7 +1168,7 @@
     "publisher": "Ubisoft",
     "release_date": "2021-05-10",
     "price_eur": 30.27,
-    "cover_image_url": "https://placehold.co/200x300?text=Sekiro%3A+Shadows+Die+Twice"
+    "cover_image_url": "https://picsum.photos/seed/sekiro-shadows-die-twice/200/300"
   },
   {
     "objectID": "136",
@@ -1185,7 +1185,7 @@
     "publisher": "Bethesda",
     "release_date": "2019-11-17",
     "price_eur": 29.36,
-    "cover_image_url": "https://placehold.co/200x300?text=Dark+Souls+Remastered"
+    "cover_image_url": "https://picsum.photos/seed/dark-souls-remastered/200/300"
   },
   {
     "objectID": "137",
@@ -1199,7 +1199,7 @@
     "publisher": "2K Games",
     "release_date": "2023-01-17",
     "price_eur": 55.16,
-    "cover_image_url": "https://placehold.co/200x300?text=Dark+Souls+III"
+    "cover_image_url": "https://picsum.photos/seed/dark-souls-iii/200/300"
   },
   {
     "objectID": "138",
@@ -1214,7 +1214,7 @@
     "publisher": "Nintendo",
     "release_date": "2019-10-19",
     "price_eur": 21.25,
-    "cover_image_url": "https://placehold.co/200x300?text=Bloodborne"
+    "cover_image_url": "https://picsum.photos/seed/bloodborne/200/300"
   },
   {
     "objectID": "139",
@@ -1229,7 +1229,7 @@
     "publisher": "Microsoft",
     "release_date": "2021-08-13",
     "price_eur": 48.05,
-    "cover_image_url": "https://placehold.co/200x300?text=Ghost+of+Tsushima"
+    "cover_image_url": "https://picsum.photos/seed/ghost-of-tsushima/200/300"
   },
   {
     "objectID": "140",
@@ -1245,7 +1245,7 @@
     "publisher": "Bethesda",
     "release_date": "2021-11-03",
     "price_eur": 27.79,
-    "cover_image_url": "https://placehold.co/200x300?text=Returnal"
+    "cover_image_url": "https://picsum.photos/seed/returnal/200/300"
   },
   {
     "objectID": "141",
@@ -1261,7 +1261,7 @@
     "publisher": "Microsoft",
     "release_date": "2021-05-25",
     "price_eur": 30.14,
-    "cover_image_url": "https://placehold.co/200x300?text=Ratchet+%26+Clank%3A+Rift+Apart"
+    "cover_image_url": "https://picsum.photos/seed/ratchet-clank-rift-apart/200/300"
   },
   {
     "objectID": "142",
@@ -1279,7 +1279,7 @@
     "publisher": "Bethesda",
     "release_date": "2021-12-24",
     "price_eur": 59.37,
-    "cover_image_url": "https://placehold.co/200x300?text=Demon%27s+Souls"
+    "cover_image_url": "https://picsum.photos/seed/demon-s-souls/200/300"
   },
   {
     "objectID": "143",
@@ -1295,7 +1295,7 @@
     "publisher": "Capcom",
     "release_date": "2019-06-05",
     "price_eur": 24.76,
-    "cover_image_url": "https://placehold.co/200x300?text=Horizon+Zero+Dawn"
+    "cover_image_url": "https://picsum.photos/seed/horizon-zero-dawn/200/300"
   },
   {
     "objectID": "144",
@@ -1311,7 +1311,7 @@
     "publisher": "Activision",
     "release_date": "2024-12-25",
     "price_eur": 76.74,
-    "cover_image_url": "https://placehold.co/200x300?text=Death+Stranding"
+    "cover_image_url": "https://picsum.photos/seed/death-stranding/200/300"
   },
   {
     "objectID": "145",
@@ -1327,7 +1327,7 @@
     "publisher": "Microsoft",
     "release_date": "2021-02-25",
     "price_eur": 60.15,
-    "cover_image_url": "https://placehold.co/200x300?text=NieR%3A+Automata"
+    "cover_image_url": "https://picsum.photos/seed/nier-automata/200/300"
   },
   {
     "objectID": "146",
@@ -1345,7 +1345,7 @@
     "publisher": "Square Enix",
     "release_date": "2018-07-15",
     "price_eur": 28.5,
-    "cover_image_url": "https://placehold.co/200x300?text=Nioh+2"
+    "cover_image_url": "https://picsum.photos/seed/nioh-2/200/300"
   },
   {
     "objectID": "147",
@@ -1363,7 +1363,7 @@
     "publisher": "Microsoft",
     "release_date": "2023-06-15",
     "price_eur": 29.46,
-    "cover_image_url": "https://placehold.co/200x300?text=Control"
+    "cover_image_url": "https://picsum.photos/seed/control/200/300"
   },
   {
     "objectID": "148",
@@ -1380,7 +1380,7 @@
     "publisher": "Activision",
     "release_date": "2021-12-16",
     "price_eur": 38.65,
-    "cover_image_url": "https://placehold.co/200x300?text=Alan+Wake+Remastered"
+    "cover_image_url": "https://picsum.photos/seed/alan-wake-remastered/200/300"
   },
   {
     "objectID": "149",
@@ -1396,7 +1396,7 @@
     "publisher": "Capcom",
     "release_date": "2023-06-17",
     "price_eur": 33.39,
-    "cover_image_url": "https://placehold.co/200x300?text=Alan+Wake+2"
+    "cover_image_url": "https://picsum.photos/seed/alan-wake-2/200/300"
   },
   {
     "objectID": "150",
@@ -1410,7 +1410,7 @@
     "publisher": "Capcom",
     "release_date": "2019-11-26",
     "price_eur": 76.11,
-    "cover_image_url": "https://placehold.co/200x300?text=Star+Wars+Jedi%3A+Fallen+Order"
+    "cover_image_url": "https://picsum.photos/seed/star-wars-jedi-fallen-order/200/300"
   },
   {
     "objectID": "151",
@@ -1427,7 +1427,7 @@
     "publisher": "Bethesda",
     "release_date": "2018-09-15",
     "price_eur": 67.61,
-    "cover_image_url": "https://placehold.co/200x300?text=Star+Wars+Jedi%3A+Survivor"
+    "cover_image_url": "https://picsum.photos/seed/star-wars-jedi-survivor/200/300"
   },
   {
     "objectID": "152",
@@ -1442,7 +1442,7 @@
     "publisher": "Microsoft",
     "release_date": "2024-02-11",
     "price_eur": 25.88,
-    "cover_image_url": "https://placehold.co/200x300?text=Titanfall+2"
+    "cover_image_url": "https://picsum.photos/seed/titanfall-2/200/300"
   },
   {
     "objectID": "153",
@@ -1458,7 +1458,7 @@
     "publisher": "Capcom",
     "release_date": "2019-02-04",
     "price_eur": 79.85,
-    "cover_image_url": "https://placehold.co/200x300?text=Destiny+2"
+    "cover_image_url": "https://picsum.photos/seed/destiny-2/200/300"
   },
   {
     "objectID": "154",
@@ -1475,7 +1475,7 @@
     "publisher": "SEGA",
     "release_date": "2022-03-09",
     "price_eur": 73.17,
-    "cover_image_url": "https://placehold.co/200x300?text=Borderlands+3"
+    "cover_image_url": "https://picsum.photos/seed/borderlands-3/200/300"
   },
   {
     "objectID": "155",
@@ -1490,7 +1490,7 @@
     "publisher": "2K Games",
     "release_date": "2021-03-12",
     "price_eur": 69.52,
-    "cover_image_url": "https://placehold.co/200x300?text=The+Outer+Worlds"
+    "cover_image_url": "https://picsum.photos/seed/the-outer-worlds/200/300"
   },
   {
     "objectID": "156",
@@ -1507,7 +1507,7 @@
     "publisher": "2K Games",
     "release_date": "2022-09-01",
     "price_eur": 66.33,
-    "cover_image_url": "https://placehold.co/200x300?text=No+Man%27s+Sky"
+    "cover_image_url": "https://picsum.photos/seed/no-man-s-sky/200/300"
   },
   {
     "objectID": "157",
@@ -1524,7 +1524,7 @@
     "publisher": "Capcom",
     "release_date": "2022-05-04",
     "price_eur": 26.67,
-    "cover_image_url": "https://placehold.co/200x300?text=Subnautica"
+    "cover_image_url": "https://picsum.photos/seed/subnautica/200/300"
   },
   {
     "objectID": "158",
@@ -1540,7 +1540,7 @@
     "publisher": "SEGA",
     "release_date": "2023-07-22",
     "price_eur": 26.87,
-    "cover_image_url": "https://placehold.co/200x300?text=Hollow+Knight"
+    "cover_image_url": "https://picsum.photos/seed/hollow-knight/200/300"
   },
   {
     "objectID": "159",
@@ -1557,7 +1557,7 @@
     "publisher": "Activision",
     "release_date": "2018-07-04",
     "price_eur": 79.81,
-    "cover_image_url": "https://placehold.co/200x300?text=Celeste"
+    "cover_image_url": "https://picsum.photos/seed/celeste/200/300"
   },
   {
     "objectID": "160",
@@ -1573,7 +1573,7 @@
     "publisher": "SEGA",
     "release_date": "2024-03-28",
     "price_eur": 31.47,
-    "cover_image_url": "https://placehold.co/200x300?text=Ori+and+the+Will+of+the+Wisps"
+    "cover_image_url": "https://picsum.photos/seed/ori-and-the-will-of-the-wisps/200/300"
   },
   {
     "objectID": "161",
@@ -1588,7 +1588,7 @@
     "publisher": "Sony",
     "release_date": "2025-11-09",
     "price_eur": 32.34,
-    "cover_image_url": "https://placehold.co/200x300?text=Ori+and+the+Blind+Forest"
+    "cover_image_url": "https://picsum.photos/seed/ori-and-the-blind-forest/200/300"
   },
   {
     "objectID": "162",
@@ -1604,6 +1604,6 @@
     "publisher": "Capcom",
     "release_date": "2019-06-04",
     "price_eur": 38.78,
-    "cover_image_url": "https://placehold.co/200x300?text=Cuphead"
+    "cover_image_url": "https://picsum.photos/seed/cuphead/200/300"
   }
 ]

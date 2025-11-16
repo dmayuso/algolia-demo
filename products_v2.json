@@ -1,0 +1,1483 @@
+[
+  {
+    "objectID": "1",
+    "title": "Super Mario Odyssey",
+    "genre": [
+      "Shooter",
+      "RPG",
+      "Deportes"
+    ],
+    "platform": [
+      "PS4",
+      "PS5",
+      "Nintendo Switch"
+    ],
+    "publisher": "Capcom",
+    "release_date": "2020-03-28",
+    "price_eur": 44.24,
+    "cover_image_url": "https://picsum.photos/seed/super-mario-odyssey/200/300"
+  },
+  {
+    "objectID": "2",
+    "title": "Starfield",
+    "genre": [
+      "Shooter",
+      "Terror",
+      "RPG"
+    ],
+    "platform": [
+      "PS5"
+    ],
+    "publisher": "Sony",
+    "release_date": "2020-06-08",
+    "price_eur": 29.23,
+    "cover_image_url": "https://picsum.photos/seed/starfield/200/300"
+  },
+  {
+    "objectID": "3",
+    "title": "Diablo IV",
+    "genre": [
+      "Estrategia",
+      "Simulaci\u00f3n"
+    ],
+    "platform": [
+      "Xbox Series X",
+      "PC"
+    ],
+    "publisher": "Sony",
+    "release_date": "2025-10-05",
+    "price_eur": 56.34,
+    "cover_image_url": "https://picsum.photos/seed/diablo-iv/200/300"
+  },
+  {
+    "objectID": "4",
+    "title": "Persona 5 Royal",
+    "genre": [
+      "RPG",
+      "Carreras",
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "Xbox One",
+      "PS5",
+      "Xbox Series X"
+    ],
+    "publisher": "Square Enix",
+    "release_date": "2024-10-19",
+    "price_eur": 57.95,
+    "cover_image_url": "https://picsum.photos/seed/persona-5-royal/200/300"
+  },
+  {
+    "objectID": "5",
+    "title": "FIFA",
+    "genre": [
+      "Estrategia"
+    ],
+    "platform": [
+      "PS4"
+    ],
+    "publisher": "Nintendo",
+    "release_date": "2023-01-24",
+    "price_eur": 65.74,
+    "cover_image_url": "https://picsum.photos/seed/fifa/200/300"
+  },
+  {
+    "objectID": "6",
+    "title": "Tekken",
+    "genre": [
+      "Acci\u00f3n",
+      "Aventura",
+      "RPG"
+    ],
+    "platform": [
+      "PS5"
+    ],
+    "publisher": "EA",
+    "release_date": "2022-06-01",
+    "price_eur": 38.83,
+    "cover_image_url": "https://picsum.photos/seed/tekken/200/300"
+  },
+  {
+    "objectID": "7",
+    "title": "Final Fantasy XVI",
+    "genre": [
+      "Shooter",
+      "Deportes"
+    ],
+    "platform": [
+      "PS4",
+      "PS5",
+      "Xbox Series X"
+    ],
+    "publisher": "Bandai Namco",
+    "release_date": "2024-09-07",
+    "price_eur": 69.34,
+    "cover_image_url": "https://picsum.photos/seed/final-fantasy-xvi/200/300"
+  },
+  {
+    "objectID": "9",
+    "title": "Elden Ring",
+    "genre": [
+      "Aventura"
+    ],
+    "platform": [
+      "PS5",
+      "Xbox Series X",
+      "Nintendo Switch"
+    ],
+    "publisher": "Capcom",
+    "release_date": "2019-06-25",
+    "price_eur": 71.53,
+    "cover_image_url": "https://picsum.photos/seed/elden-ring/200/300"
+  },
+  {
+    "objectID": "10",
+    "title": "Mass Effect Legendary Edition",
+    "genre": [
+      "Familiar"
+    ],
+    "platform": [
+      "PS5"
+    ],
+    "publisher": "Microsoft",
+    "release_date": "2023-09-02",
+    "price_eur": 67.54,
+    "cover_image_url": "https://picsum.photos/seed/mass-effect-legendary-edition/200/300"
+  },
+  {
+    "objectID": "11",
+    "title": "Dead Space Remake",
+    "genre": [
+      "Simulaci\u00f3n"
+    ],
+    "platform": [
+      "Xbox Series X",
+      "Nintendo Switch",
+      "Xbox One"
+    ],
+    "publisher": "Nintendo",
+    "release_date": "2025-06-03",
+    "price_eur": 49.26,
+    "cover_image_url": "https://picsum.photos/seed/dead-space-remake/200/300"
+  },
+  {
+    "objectID": "12",
+    "title": "Spider-Man",
+    "genre": [
+      "Deportes",
+      "RPG"
+    ],
+    "platform": [
+      "PS5",
+      "PS4",
+      "Xbox One"
+    ],
+    "publisher": "EA",
+    "release_date": "2021-09-18",
+    "price_eur": 45.35,
+    "cover_image_url": "https://picsum.photos/seed/spider-man/200/300"
+  },
+  {
+    "objectID": "13",
+    "title": "The Last of Us Part I",
+    "genre": [
+      "Simulaci\u00f3n"
+    ],
+    "platform": [
+      "Xbox One"
+    ],
+    "publisher": "Sony",
+    "release_date": "2025-04-10",
+    "price_eur": 63.18,
+    "cover_image_url": "https://picsum.photos/seed/the-last-of-us-part-i/200/300"
+  },
+  {
+    "objectID": "14",
+    "title": "Overwatch",
+    "genre": [
+      "Aventura",
+      "Simulaci\u00f3n"
+    ],
+    "platform": [
+      "PS4",
+      "Xbox Series X",
+      "PS5"
+    ],
+    "publisher": "Square Enix",
+    "release_date": "2025-03-19",
+    "price_eur": 25.67,
+    "cover_image_url": "https://picsum.photos/seed/overwatch/200/300"
+  },
+  {
+    "objectID": "15",
+    "title": "Street Fighter",
+    "genre": [
+      "Terror",
+      "Carreras",
+      "Estrategia"
+    ],
+    "platform": [
+      "Xbox One",
+      "Xbox Series X",
+      "PC"
+    ],
+    "publisher": "Capcom",
+    "release_date": "2020-11-27",
+    "price_eur": 29.31,
+    "cover_image_url": "https://picsum.photos/seed/street-fighter/200/300"
+  },
+  {
+    "objectID": "16",
+    "title": "Spider-Man 2",
+    "genre": [
+      "Deportes",
+      "Terror"
+    ],
+    "platform": [
+      "PS5",
+      "PS4"
+    ],
+    "publisher": "Ubisoft",
+    "release_date": "2023-02-18",
+    "price_eur": 66.66,
+    "cover_image_url": "https://picsum.photos/seed/spider-man-2/200/300"
+  },
+  {
+    "objectID": "21",
+    "title": "Baldur's Gate 3",
+    "genre": [
+      "Familiar",
+      "Acci\u00f3n",
+      "Estrategia"
+    ],
+    "platform": [
+      "Nintendo Switch",
+      "Xbox Series X"
+    ],
+    "publisher": "Ubisoft",
+    "release_date": "2022-06-28",
+    "price_eur": 51.25,
+    "cover_image_url": "https://picsum.photos/seed/baldur-s-gate-3/200/300"
+  },
+  {
+    "objectID": "24",
+    "title": "Gran Turismo",
+    "genre": [
+      "Estrategia",
+      "Aventura",
+      "Simulaci\u00f3n"
+    ],
+    "platform": [
+      "Nintendo Switch",
+      "PS4",
+      "PS5"
+    ],
+    "publisher": "Ubisoft",
+    "release_date": "2019-02-20",
+    "price_eur": 72.55,
+    "cover_image_url": "https://picsum.photos/seed/gran-turismo/200/300"
+  },
+  {
+    "objectID": "25",
+    "title": "Cyberpunk",
+    "genre": [
+      "RPG"
+    ],
+    "platform": [
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "publisher": "Microsoft",
+    "release_date": "2023-09-05",
+    "price_eur": 45.69,
+    "cover_image_url": "https://picsum.photos/seed/cyberpunk/200/300"
+  },
+  {
+    "objectID": "26",
+    "title": "Zelda: Tears of the Kingdom",
+    "genre": [
+      "Simulaci\u00f3n",
+      "Deportes",
+      "Carreras"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "EA",
+    "release_date": "2023-08-21",
+    "price_eur": 23.55,
+    "cover_image_url": "https://picsum.photos/seed/zelda-tears-of-the-kingdom/200/300"
+  },
+  {
+    "objectID": "28",
+    "title": "Cyberpunk 2077",
+    "genre": [
+      "Familiar",
+      "Carreras"
+    ],
+    "platform": [
+      "PS5",
+      "PC"
+    ],
+    "publisher": "Microsoft",
+    "release_date": "2023-12-28",
+    "price_eur": 46.53,
+    "cover_image_url": "https://picsum.photos/seed/cyberpunk-2077/200/300"
+  },
+  {
+    "objectID": "30",
+    "title": "Horizon Forbidden West",
+    "genre": [
+      "Carreras",
+      "RPG",
+      "Shooter"
+    ],
+    "platform": [
+      "PS4",
+      "Xbox One"
+    ],
+    "publisher": "EA",
+    "release_date": "2021-07-09",
+    "price_eur": 28.95,
+    "cover_image_url": "https://picsum.photos/seed/horizon-forbidden-west/200/300"
+  },
+  {
+    "objectID": "32",
+    "title": "The Witcher",
+    "genre": [
+      "Deportes"
+    ],
+    "platform": [
+      "PS5",
+      "Xbox Series X"
+    ],
+    "publisher": "Microsoft",
+    "release_date": "2022-08-10",
+    "price_eur": 32.78,
+    "cover_image_url": "https://picsum.photos/seed/the-witcher/200/300"
+  },
+  {
+    "objectID": "34",
+    "title": "Mortal Kombat",
+    "genre": [
+      "Terror",
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "Xbox Series X",
+      "PC",
+      "Xbox One"
+    ],
+    "publisher": "Microsoft",
+    "release_date": "2022-09-21",
+    "price_eur": 27.46,
+    "cover_image_url": "https://picsum.photos/seed/mortal-kombat/200/300"
+  },
+  {
+    "objectID": "37",
+    "title": "Mortal Kombat 1",
+    "genre": [
+      "Deportes",
+      "Simulaci\u00f3n"
+    ],
+    "platform": [
+      "Xbox Series X",
+      "Xbox One"
+    ],
+    "publisher": "Nintendo",
+    "release_date": "2025-06-01",
+    "price_eur": 25.16,
+    "cover_image_url": "https://picsum.photos/seed/mortal-kombat-1/200/300"
+  },
+  {
+    "objectID": "39",
+    "title": "Overwatch 2",
+    "genre": [
+      "Deportes",
+      "Terror",
+      "Carreras"
+    ],
+    "platform": [
+      "PS4",
+      "Xbox One"
+    ],
+    "publisher": "EA",
+    "release_date": "2025-06-18",
+    "price_eur": 49.95,
+    "cover_image_url": "https://picsum.photos/seed/overwatch-2/200/300"
+  },
+  {
+    "objectID": "41",
+    "title": "NBA 2K24",
+    "genre": [
+      "Carreras",
+      "Deportes"
+    ],
+    "platform": [
+      "Nintendo Switch"
+    ],
+    "publisher": "Ubisoft",
+    "release_date": "2022-12-16",
+    "price_eur": 36.26,
+    "cover_image_url": "https://picsum.photos/seed/nba-2k24/200/300"
+  },
+  {
+    "objectID": "43",
+    "title": "Assassin's Creed Mirage",
+    "genre": [
+      "Terror"
+    ],
+    "platform": [
+      "PS5"
+    ],
+    "publisher": "EA",
+    "release_date": "2019-05-15",
+    "price_eur": 75.4,
+    "cover_image_url": "https://picsum.photos/seed/assassin-s-creed-mirage/200/300"
+  },
+  {
+    "objectID": "47",
+    "title": "Forza Horizon",
+    "genre": [
+      "Simulaci\u00f3n",
+      "Acci\u00f3n",
+      "Terror"
+    ],
+    "platform": [
+      "PC",
+      "Nintendo Switch"
+    ],
+    "publisher": "Capcom",
+    "release_date": "2025-12-07",
+    "price_eur": 26.79,
+    "cover_image_url": "https://picsum.photos/seed/forza-horizon/200/300"
+  },
+  {
+    "objectID": "53",
+    "title": "Sea of Thieves",
+    "genre": [
+      "Terror",
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "Xbox Series X"
+    ],
+    "publisher": "Sony",
+    "release_date": "2024-09-12",
+    "price_eur": 32.81,
+    "cover_image_url": "https://picsum.photos/seed/sea-of-thieves/200/300"
+  },
+  {
+    "objectID": "56",
+    "title": "Resident Evil 4 Remake",
+    "genre": [
+      "Estrategia"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Square Enix",
+    "release_date": "2021-11-15",
+    "price_eur": 49.3,
+    "cover_image_url": "https://picsum.photos/seed/resident-evil-4-remake/200/300"
+  },
+  {
+    "objectID": "59",
+    "title": "God of War Ragnarok",
+    "genre": [
+      "Terror",
+      "Carreras",
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PS4",
+      "PS5",
+      "Xbox One"
+    ],
+    "publisher": "Capcom",
+    "release_date": "2024-06-19",
+    "price_eur": 60.84,
+    "cover_image_url": "https://picsum.photos/seed/god-of-war-ragnarok/200/300"
+  },
+  {
+    "objectID": "64",
+    "title": "Baldur's Gate",
+    "genre": [
+      "Shooter",
+      "Aventura"
+    ],
+    "platform": [
+      "Nintendo Switch",
+      "Xbox One"
+    ],
+    "publisher": "Bandai Namco",
+    "release_date": "2023-04-04",
+    "price_eur": 41.63,
+    "cover_image_url": "https://picsum.photos/seed/baldur-s-gate/200/300"
+  },
+  {
+    "objectID": "67",
+    "title": "Street Fighter 6",
+    "genre": [
+      "Familiar",
+      "Shooter"
+    ],
+    "platform": [
+      "PS5",
+      "PS4"
+    ],
+    "publisher": "Capcom",
+    "release_date": "2024-10-27",
+    "price_eur": 27.48,
+    "cover_image_url": "https://picsum.photos/seed/street-fighter-6/200/300"
+  },
+  {
+    "objectID": "74",
+    "title": "Hades",
+    "genre": [
+      "Shooter",
+      "Simulaci\u00f3n",
+      "Estrategia"
+    ],
+    "platform": [
+      "PS5"
+    ],
+    "publisher": "Square Enix",
+    "release_date": "2021-02-04",
+    "price_eur": 52.81,
+    "cover_image_url": "https://picsum.photos/seed/hades/200/300"
+  },
+  {
+    "objectID": "75",
+    "title": "Call of Duty Modern Warfare",
+    "genre": [
+      "Estrategia",
+      "Simulaci\u00f3n",
+      "Terror"
+    ],
+    "platform": [
+      "PS5",
+      "Nintendo Switch"
+    ],
+    "publisher": "Square Enix",
+    "release_date": "2024-07-12",
+    "price_eur": 79.26,
+    "cover_image_url": "https://picsum.photos/seed/call-of-duty-modern-warfare/200/300"
+  },
+  {
+    "objectID": "81",
+    "title": "Forza Horizon 5",
+    "genre": [
+      "Acci\u00f3n",
+      "Familiar",
+      "Deportes"
+    ],
+    "platform": [
+      "PS4"
+    ],
+    "publisher": "Microsoft",
+    "release_date": "2024-12-19",
+    "price_eur": 51.93,
+    "cover_image_url": "https://picsum.photos/seed/forza-horizon-5/200/300"
+  },
+  {
+    "objectID": "92",
+    "title": "The Witcher 3",
+    "genre": [
+      "Terror",
+      "Acci\u00f3n",
+      "Simulaci\u00f3n"
+    ],
+    "platform": [
+      "PS4",
+      "Xbox Series X"
+    ],
+    "publisher": "Ubisoft",
+    "release_date": "2021-06-14",
+    "price_eur": 50.92,
+    "cover_image_url": "https://picsum.photos/seed/the-witcher-3/200/300"
+  },
+  {
+    "objectID": "100",
+    "title": "FIFA 24",
+    "genre": [
+      "Estrategia",
+      "Deportes"
+    ],
+    "platform": [
+      "Xbox One"
+    ],
+    "publisher": "Nintendo",
+    "release_date": "2022-10-24",
+    "price_eur": 72.98,
+    "cover_image_url": "https://picsum.photos/seed/fifa-24/200/300"
+  },
+  {
+    "objectID": "101",
+    "title": "Halo Infinite",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 20.49,
+    "cover_image_url": "https://picsum.photos/seed/halo-infinite/200/300"
+  },
+  {
+    "objectID": "102",
+    "title": "Grand Theft Auto V",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 20.99,
+    "cover_image_url": "https://picsum.photos/seed/grand-theft-auto-v/200/300"
+  },
+  {
+    "objectID": "103",
+    "title": "Red Dead Redemption 2",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 21.49,
+    "cover_image_url": "https://picsum.photos/seed/red-dead-redemption-2/200/300"
+  },
+  {
+    "objectID": "104",
+    "title": "Minecraft",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 21.99,
+    "cover_image_url": "https://picsum.photos/seed/minecraft/200/300"
+  },
+  {
+    "objectID": "105",
+    "title": "Fortnite",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 22.49,
+    "cover_image_url": "https://picsum.photos/seed/fortnite/200/300"
+  },
+  {
+    "objectID": "106",
+    "title": "Apex Legends",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 22.99,
+    "cover_image_url": "https://picsum.photos/seed/apex-legends/200/300"
+  },
+  {
+    "objectID": "107",
+    "title": "League of Legends",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 23.49,
+    "cover_image_url": "https://picsum.photos/seed/league-of-legends/200/300"
+  },
+  {
+    "objectID": "108",
+    "title": "Dota 2",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 23.99,
+    "cover_image_url": "https://picsum.photos/seed/dota-2/200/300"
+  },
+  {
+    "objectID": "109",
+    "title": "Counter-Strike 2",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 24.49,
+    "cover_image_url": "https://picsum.photos/seed/counter-strike-2/200/300"
+  },
+  {
+    "objectID": "110",
+    "title": "Call of Duty: Warzone",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 24.99,
+    "cover_image_url": "https://picsum.photos/seed/call-of-duty-warzone/200/300"
+  },
+  {
+    "objectID": "111",
+    "title": "Call of Duty: Black Ops Cold War",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 25.49,
+    "cover_image_url": "https://picsum.photos/seed/call-of-duty-black-ops-cold-war/200/300"
+  },
+  {
+    "objectID": "112",
+    "title": "Call of Duty: Modern Warfare II",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 25.99,
+    "cover_image_url": "https://picsum.photos/seed/call-of-duty-modern-warfare-ii/200/300"
+  },
+  {
+    "objectID": "113",
+    "title": "Among Us",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 26.49,
+    "cover_image_url": "https://picsum.photos/seed/among-us/200/300"
+  },
+  {
+    "objectID": "114",
+    "title": "Rocket League",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 26.99,
+    "cover_image_url": "https://picsum.photos/seed/rocket-league/200/300"
+  },
+  {
+    "objectID": "115",
+    "title": "Genshin Impact",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 27.49,
+    "cover_image_url": "https://picsum.photos/seed/genshin-impact/200/300"
+  },
+  {
+    "objectID": "116",
+    "title": "Animal Crossing: New Horizons",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 27.99,
+    "cover_image_url": "https://picsum.photos/seed/animal-crossing-new-horizons/200/300"
+  },
+  {
+    "objectID": "117",
+    "title": "Super Smash Bros. Ultimate",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 28.49,
+    "cover_image_url": "https://picsum.photos/seed/super-smash-bros-ultimate/200/300"
+  },
+  {
+    "objectID": "118",
+    "title": "Mario Kart 8 Deluxe",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 28.99,
+    "cover_image_url": "https://picsum.photos/seed/mario-kart-8-deluxe/200/300"
+  },
+  {
+    "objectID": "119",
+    "title": "Splatoon 3",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 29.49,
+    "cover_image_url": "https://picsum.photos/seed/splatoon-3/200/300"
+  },
+  {
+    "objectID": "120",
+    "title": "Luigi's Mansion 3",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 29.99,
+    "cover_image_url": "https://picsum.photos/seed/luigi-s-mansion-3/200/300"
+  },
+  {
+    "objectID": "121",
+    "title": "Super Mario 3D World + Bowser's Fury",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 30.49,
+    "cover_image_url": "https://picsum.photos/seed/super-mario-3d-world-bowser-s-fury/200/300"
+  },
+  {
+    "objectID": "122",
+    "title": "Metroid Dread",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 30.99,
+    "cover_image_url": "https://picsum.photos/seed/metroid-dread/200/300"
+  },
+  {
+    "objectID": "123",
+    "title": "Kirby and the Forgotten Land",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 31.49,
+    "cover_image_url": "https://picsum.photos/seed/kirby-and-the-forgotten-land/200/300"
+  },
+  {
+    "objectID": "124",
+    "title": "Pikmin 4",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 31.99,
+    "cover_image_url": "https://picsum.photos/seed/pikmin-4/200/300"
+  },
+  {
+    "objectID": "125",
+    "title": "Bayonetta 3",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 32.49,
+    "cover_image_url": "https://picsum.photos/seed/bayonetta-3/200/300"
+  },
+  {
+    "objectID": "126",
+    "title": "Fire Emblem: Three Houses",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 32.99,
+    "cover_image_url": "https://picsum.photos/seed/fire-emblem-three-houses/200/300"
+  },
+  {
+    "objectID": "127",
+    "title": "Fire Emblem Engage",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 33.49,
+    "cover_image_url": "https://picsum.photos/seed/fire-emblem-engage/200/300"
+  },
+  {
+    "objectID": "128",
+    "title": "Xenoblade Chronicles 3",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 33.99,
+    "cover_image_url": "https://picsum.photos/seed/xenoblade-chronicles-3/200/300"
+  },
+  {
+    "objectID": "129",
+    "title": "Monster Hunter: World",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 34.49,
+    "cover_image_url": "https://picsum.photos/seed/monster-hunter-world/200/300"
+  },
+  {
+    "objectID": "130",
+    "title": "Monster Hunter Rise",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 34.99,
+    "cover_image_url": "https://picsum.photos/seed/monster-hunter-rise/200/300"
+  },
+  {
+    "objectID": "131",
+    "title": "Resident Evil 2",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 35.49,
+    "cover_image_url": "https://picsum.photos/seed/resident-evil-2/200/300"
+  },
+  {
+    "objectID": "132",
+    "title": "Resident Evil 3",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 35.99,
+    "cover_image_url": "https://picsum.photos/seed/resident-evil-3/200/300"
+  },
+  {
+    "objectID": "133",
+    "title": "Resident Evil Village",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 36.49,
+    "cover_image_url": "https://picsum.photos/seed/resident-evil-village/200/300"
+  },
+  {
+    "objectID": "134",
+    "title": "Resident Evil 7: Biohazard",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 36.99,
+    "cover_image_url": "https://picsum.photos/seed/resident-evil-7-biohazard/200/300"
+  },
+  {
+    "objectID": "135",
+    "title": "Sekiro: Shadows Die Twice",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 37.49,
+    "cover_image_url": "https://picsum.photos/seed/sekiro-shadows-die-twice/200/300"
+  },
+  {
+    "objectID": "136",
+    "title": "Dark Souls Remastered",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 37.99,
+    "cover_image_url": "https://picsum.photos/seed/dark-souls-remastered/200/300"
+  },
+  {
+    "objectID": "137",
+    "title": "Dark Souls III",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 38.49,
+    "cover_image_url": "https://picsum.photos/seed/dark-souls-iii/200/300"
+  },
+  {
+    "objectID": "138",
+    "title": "Bloodborne",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 38.99,
+    "cover_image_url": "https://picsum.photos/seed/bloodborne/200/300"
+  },
+  {
+    "objectID": "139",
+    "title": "Ghost of Tsushima",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 39.49,
+    "cover_image_url": "https://picsum.photos/seed/ghost-of-tsushima/200/300"
+  },
+  {
+    "objectID": "140",
+    "title": "Returnal",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 39.99,
+    "cover_image_url": "https://picsum.photos/seed/returnal/200/300"
+  },
+  {
+    "objectID": "141",
+    "title": "Ratchet & Clank: Rift Apart",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 40.49,
+    "cover_image_url": "https://picsum.photos/seed/ratchet-clank-rift-apart/200/300"
+  },
+  {
+    "objectID": "142",
+    "title": "Demon's Souls",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 40.99,
+    "cover_image_url": "https://picsum.photos/seed/demon-s-souls/200/300"
+  },
+  {
+    "objectID": "143",
+    "title": "Horizon Zero Dawn",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 41.49,
+    "cover_image_url": "https://picsum.photos/seed/horizon-zero-dawn/200/300"
+  },
+  {
+    "objectID": "144",
+    "title": "Death Stranding",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 41.99,
+    "cover_image_url": "https://picsum.photos/seed/death-stranding/200/300"
+  },
+  {
+    "objectID": "145",
+    "title": "NieR: Automata",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 42.49,
+    "cover_image_url": "https://picsum.photos/seed/nier-automata/200/300"
+  },
+  {
+    "objectID": "146",
+    "title": "Nioh 2",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 42.99,
+    "cover_image_url": "https://picsum.photos/seed/nioh-2/200/300"
+  },
+  {
+    "objectID": "147",
+    "title": "Control",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 43.49,
+    "cover_image_url": "https://picsum.photos/seed/control/200/300"
+  },
+  {
+    "objectID": "148",
+    "title": "Alan Wake Remastered",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 43.99,
+    "cover_image_url": "https://picsum.photos/seed/alan-wake-remastered/200/300"
+  },
+  {
+    "objectID": "149",
+    "title": "Alan Wake 2",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 44.49,
+    "cover_image_url": "https://picsum.photos/seed/alan-wake-2/200/300"
+  },
+  {
+    "objectID": "150",
+    "title": "Star Wars Jedi: Fallen Order",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 44.99,
+    "cover_image_url": "https://picsum.photos/seed/star-wars-jedi-fallen-order/200/300"
+  },
+  {
+    "objectID": "151",
+    "title": "Star Wars Jedi: Survivor",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 45.49,
+    "cover_image_url": "https://picsum.photos/seed/star-wars-jedi-survivor/200/300"
+  },
+  {
+    "objectID": "152",
+    "title": "Titanfall 2",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 45.99,
+    "cover_image_url": "https://picsum.photos/seed/titanfall-2/200/300"
+  },
+  {
+    "objectID": "153",
+    "title": "Destiny 2",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 46.49,
+    "cover_image_url": "https://picsum.photos/seed/destiny-2/200/300"
+  },
+  {
+    "objectID": "154",
+    "title": "Borderlands 3",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 46.99,
+    "cover_image_url": "https://picsum.photos/seed/borderlands-3/200/300"
+  },
+  {
+    "objectID": "155",
+    "title": "The Outer Worlds",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 47.49,
+    "cover_image_url": "https://picsum.photos/seed/the-outer-worlds/200/300"
+  },
+  {
+    "objectID": "156",
+    "title": "No Man's Sky",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 47.99,
+    "cover_image_url": "https://picsum.photos/seed/no-man-s-sky/200/300"
+  },
+  {
+    "objectID": "157",
+    "title": "Subnautica",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 48.49,
+    "cover_image_url": "https://picsum.photos/seed/subnautica/200/300"
+  },
+  {
+    "objectID": "158",
+    "title": "Hollow Knight",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 48.99,
+    "cover_image_url": "https://picsum.photos/seed/hollow-knight/200/300"
+  },
+  {
+    "objectID": "159",
+    "title": "Celeste",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 49.49,
+    "cover_image_url": "https://picsum.photos/seed/celeste/200/300"
+  },
+  {
+    "objectID": "160",
+    "title": "Ori and the Will of the Wisps",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 49.99,
+    "cover_image_url": "https://picsum.photos/seed/ori-and-the-will-of-the-wisps/200/300"
+  },
+  {
+    "objectID": "161",
+    "title": "Ori and the Blind Forest",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 50.49,
+    "cover_image_url": "https://picsum.photos/seed/ori-and-the-blind-forest/200/300"
+  },
+  {
+    "objectID": "162",
+    "title": "Cuphead",
+    "genre": [
+      "Acci\u00f3n"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "publisher": "Various",
+    "release_date": "2024-01-01",
+    "price_eur": 50.99,
+    "cover_image_url": "https://picsum.photos/seed/cuphead/200/300"
+  }
+]
