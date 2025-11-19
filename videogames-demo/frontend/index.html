@@ -22,25 +22,6 @@
       .product-card {
       }
     </style>
-
-    <!-- Algolia Insights: script + shim + init -->
-    <script src="https://cdn.jsdelivr.net/npm/search-insights@2.14.0/dist/search-insights.min.js"></script>
-    <script>
-      // Shim recomendado por Algolia
-      window.aa =
-        window.aa ||
-        function () {
-          (window.aa.queue = window.aa.queue || []).push(arguments);
-        };
-
-      window.aa('init', {
-        appId: 'TU_APP_ID',          // <-- App ID de tu app Algolia
-        apiKey: 'TU_SEARCH_API_KEY', // <-- Search API Key (NO la admin)
-      });
-
-      window.aa('setUserToken', 'demo-user-token');
-      console.log('Algolia Insights inicializado');
-    </script>
   </head>
 
   <body>

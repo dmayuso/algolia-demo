@@ -6,8 +6,6 @@ const platformFilters = document.getElementById('platform-filters');
 const sortSelect = document.getElementById('sort-by');
 
 const HITS_PER_PAGE = 10;
-// Debe coincidir con ALGOLIA_INDEX (sin el sufijo) del backend/.env
-const BASE_INDEX_NAME = 'demo'; // <-- cámbialo si tu índice base se llama distinto
 
 let currentPage = 0;
 let activeFilters = { genre: [], platform: [] };
@@ -50,8 +48,8 @@ platformFilters.addEventListener('change', (e) => {
   }
 });
 
-// Click en botón de carrito -> evento a Algolia Insights
-hitsContainer.addEventListener('click', (e) => {
+// Click en botón de carrito -> llama al backend (/click)
+hitsContainer.addEventListener('click', async (e) => {
   const btn = e.target.closest('.add-to-cart-btn');
   if (!btn) return;
 
@@ -59,35 +57,34 @@ hitsContainer.addEventListener('click', (e) => {
   const position = Number(btn.dataset.position);
   const queryID = btn.dataset.queryId || lastQueryID;
 
-  const indexName =
-    currentSort === 'price'
-      ? `${BASE_INDEX_NAME}_price_asc`
-      : BASE_INDEX_NAME;
-
-  console.log('DEBUG Add to cart click:', {
+  console.log('DEBUG Add to cart click (frontend):', {
     objectID,
     position,
     queryID,
-    indexName,
+    currentSort,
   });
 
   if (!objectID || !queryID) {
-    console.warn('Falta objectID o queryID, no se envía evento');
+    console.warn('Falta objectID o queryID, no se llama al endpoint /click');
     return;
   }
 
-  if (typeof window.aa !== 'function') {
-    console.error('window.aa no está definido, no se puede enviar Insights');
-    return;
+  try {
+    await fetch('http://localhost:3001/click', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        objectID,
+        position,
+        queryID,
+        sort: currentSort,
+      }),
+    });
+  } catch (err) {
+    console.error('Error llamando a /click:', err);
   }
-
-  window.aa('clickedObjectIDsAfterSearch', {
-    eventName: 'Add to cart',
-    index: indexName,
-    objectIDs: [objectID],
-    positions: [position],
-    queryID,
-  });
 });
 
 // --- Helpers ---
