@@ -15,13 +15,9 @@ const client = algoliasearch(
 
 const baseIndexName = process.env.ALGOLIA_INDEX;
 
-// Índice principal: orden por rating (el que tengas configurado)
 const indexByRating = client.initIndex(baseIndexName);
-
-// Índice réplica: mismo índice pero con customRanking por precio ascendente
 const indexByPrice = client.initIndex(`${baseIndexName}_price_asc`);
 
-// --- SEARCH ---
 
 app.get('/search', async (req, res) => {
   const { query, page = 0, filters = '', sort = 'rating' } = req.query;
@@ -31,9 +27,9 @@ app.get('/search', async (req, res) => {
   try {
     const { hits, nbPages, queryID } = await activeIndex.search(query || '', {
       page: Number(page),
-      hitsPerPage: 10,
+      hitsPerPage: 12,
       filters: filters || undefined,
-      clickAnalytics: true, // necesario para tener queryID en los hits
+      clickAnalytics: true, 
     });
 
     res.json({ hits, nbPages, queryID });
@@ -43,7 +39,6 @@ app.get('/search', async (req, res) => {
   }
 });
 
-// --- FACETS ---
 
 app.get('/facets', async (req, res) => {
   const { query = '', filters = '', sort = 'rating' } = req.query;
@@ -64,7 +59,6 @@ app.get('/facets', async (req, res) => {
   }
 });
 
-// --- CLICK EVENT (Insights vía backend) ---
 
 const INSIGHTS_URL = 'https://insights.algolia.io/1/events';
 
@@ -78,7 +72,7 @@ app.post('/click', async (req, res) => {
   const indexName =
     sort === 'price' ? `${baseIndexName}_price_asc` : baseIndexName;
 
-  const userToken = 'demo-user-token'; // en una app real vendría del usuario autenticado
+  const userToken = 'demo-user-token';
 
   const body = {
     events: [
@@ -113,7 +107,6 @@ app.post('/click', async (req, res) => {
         .json({ message: 'Error al enviar evento a Insights', status: response.status });
     }
 
-    // No necesitamos devolver nada al front
     return res.status(204).end();
   } catch (e) {
     console.error('Error de red al llamar a Insights:', e);

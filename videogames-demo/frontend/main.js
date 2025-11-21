@@ -5,14 +5,12 @@ const genreFilters = document.getElementById('genre-filters');
 const platformFilters = document.getElementById('platform-filters');
 const sortSelect = document.getElementById('sort-by');
 
-const HITS_PER_PAGE = 10;
+const HITS_PER_PAGE = 12;
 
 let currentPage = 0;
 let activeFilters = { genre: [], platform: [] };
-let currentSort = 'rating'; // 'rating' o 'price'
+let currentSort = 'rating'; 
 let lastQueryID = null;
-
-// --- Listeners ---
 
 searchBox.addEventListener('input', () => {
   currentPage = 0;
@@ -86,8 +84,6 @@ hitsContainer.addEventListener('click', async (e) => {
     console.error('Error llamando a /click:', err);
   }
 });
-
-// --- Helpers ---
 
 function setFilter(type, value, checked) {
   const set = new Set(activeFilters[type]);
@@ -238,8 +234,6 @@ async function loadFacets(query = '', filters = '') {
     'platform'
   );
 }
-
-// --- Inicial ---
 
 (async () => {
   await loadFacets('', '');
